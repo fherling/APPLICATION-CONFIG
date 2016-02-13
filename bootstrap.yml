@@ -1,5 +1,5 @@
 spring:
   application:
-    name: TEST-APP
+    name: CONFIG-SERVICE
   profiles:
     active: dev,mysql
